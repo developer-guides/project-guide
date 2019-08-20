@@ -11,7 +11,8 @@ documentation https://docs.gitlab.com/ce/user/project/pages/.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
 
 - [GitLab CI](#gitlab-ci)
 - [Building locally](#building-locally)
@@ -87,16 +88,16 @@ unless you want to contribute back to the upstream project.
 
 1. CSS is missing! That means two things:
 
-    Either that you have wrongly set up the CSS URL in your templates, or
-    your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
+   Either that you have wrongly set up the CSS URL in your templates, or
+   your static generator has a configuration option that needs to be explicitly
+   set in order to serve static assets under a relative URL.
 
-----
+---
 
 Forked from @virtuacreative
 
 [ci]: https://about.gitlab.com/gitlab-ci/
-[GitBook]: https://www.gitbook.com/
+[gitbook]: https://www.gitbook.com/
 [host the book]: https://gitlab.com/pages/gitbook/tree/pages
 [install]: http://toolchain.gitbook.com/setup.html
 [documentation]: http://toolchain.gitbook.com

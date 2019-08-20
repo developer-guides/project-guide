@@ -1,0 +1,28 @@
+{
+  "name": "project-guide",
+  "version": "1.0.0",
+  "description": "![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vre2h/project-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vre2h/project-guide/issues"
+  },
+  "homepage": "https://gitlab.com/vre2h/project-guide#readme"
+}
